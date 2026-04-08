@@ -49,7 +49,6 @@ The model predicts short-term price direction:
 - 8 diagnostic plots for model validation
 - Interactive dashboard built with Streamlit
 
----
 
 ## System Architecture
 
