@@ -64,7 +64,7 @@ Model + Scaler Saved
 ↓
 Streamlit Dashboard (app.py)
 
-
+```
 ## Project Structure
 
 stock_intelligence/
@@ -85,6 +85,8 @@ stock_intelligence/
 ├── 06_roc_pr_curves.png
 ├── 07_predictions_vs_actual.png
 └── 08_probability_distribution.png
+
+```
 
 
 ## Installation
