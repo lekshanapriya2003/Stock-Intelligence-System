@@ -1,8 +1,3 @@
-Here’s a **complete, polished, no-BS professional README.md** you can directly use on GitHub. This is structured to actually impress recruiters—not just look “good”.
-
----
-
-```markdown
 # Stock Intelligence System
 
 An end-to-end machine learning system for stock trend prediction and decision support using technical indicators, neural networks, and sentiment analysis.
@@ -40,10 +35,9 @@ This project builds a complete pipeline that:
 
 The model predicts short-term price direction:
 
-- `1 → UP`
-- `0 → DOWN`
+- 1 → UP
+- 0 → DOWN
 
----
 
 ## Features
 
@@ -58,8 +52,6 @@ The model predicts short-term price direction:
 ---
 
 ## System Architecture
-
-```
 
 Raw Stock Data (yfinance)
 ↓
@@ -100,9 +92,6 @@ stock_intelligence/
 ├── 07_predictions_vs_actual.png
 └── 08_probability_distribution.png
 
-````
-
----
 
 ## Installation
 
@@ -111,7 +100,7 @@ stock_intelligence/
 ```bash
 git clone https://github.com/your-username/stock_intelligence.git
 cd stock_intelligence
-````
+```
 
 ---
 
