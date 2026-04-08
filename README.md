@@ -64,12 +64,8 @@ Model + Scaler Saved
 ↓
 Streamlit Dashboard (app.py)
 
-```
-
 
 ## Project Structure
-
-
 
 stock_intelligence/
 ├── utils.py
