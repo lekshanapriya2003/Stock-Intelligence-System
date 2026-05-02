@@ -2,27 +2,6 @@
 
 An end-to-end machine learning system for stock trend prediction and decision support using technical indicators, neural networks, and sentiment analysis.
 
----
-
-## Table of Contents
-
-- Overview
-- Features
-- System Architecture
-- Project Structure
-- Installation
-- Usage
-- Model Details
-- Evaluation
-- Dashboard
-- Generated Outputs
-- Limitations
-- Future Improvements
-- Troubleshooting
-- License
-
----
-
 ## Overview
 
 This project builds a complete pipeline that:
